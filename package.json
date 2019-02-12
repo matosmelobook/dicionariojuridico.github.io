@@ -1,0 +1,19 @@
+{
+  "name": "dicionariojuridico.github.io",
+  "version": "1.0.0",
+  "description": "Dicionario Juridico ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matosmelobook/dicionariojuridico.github.io.git"
+  },
+  "author": "matosmelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matosmelobook/dicionariojuridico.github.io/issues"
+  },
+  "homepage": "https://github.com/matosmelobook/dicionariojuridico.github.io#readme"
+}
