@@ -1,66 +1,66 @@
 A
 
-AÇÃO
+# AÇÃO
 Ação é a faculdade de invocar o poder jurisdicional do Estado para fazer valer um direito que se julga ter, através de um conjunto de atos formais admitidos em juízo, tendo como finalidade obter, exercitar, conservar, recuperar ou fazer declarar um direito ou resolver um conflito de interesses entre as partes. Nesse sentido, a palavra ação corresponde a causa, demanda, pleito lide, questão ou litígio.
 
-AÇÃO ANULATÓRIA
+# AÇÃO ANULATÓRIA
 Diz-se daquela que é destinada à rescisão de um ato, negócio jurídico ou contrato, tendo o proponente motivo para a nulidade prevista em lei, como quando praticado por pessoa absolutamente incapaz, ou incorrer em vício resultante de erro, dolo, simulação ou fraude.
 
-AÇÃO CÍVEL
+# AÇÃO CÍVEL
 É toda aquela pela qual se pleiteia, em juízo, direito de natureza civil. O Direito Civil regula as relações jurídicas das pessoas. A parte geral do Código Civil trata das pessoas, dos bens, atos e fatos jurídicos. A parte especial do Código Civil versa sobre o Direito de Família, o Direito das Obrigações e o Direito das Sucessões.
 
-AÇÃO CIVIL PÚBLICA
+# AÇÃO CIVIL PÚBLICA
 Visa dar proteção jurisdicional ao meio ambiente, consumidor, bens e direitos de valor artístico, estético, histórico, turístico e paisagístico, qualquer outro interesse ou direito difuso ou coletivo, bem como a defesa da ordem econômica, estabelecendo regras processuais para tanto. A ação pode ser proposta pelo Ministério Público, pela União, pelos Estados e Municípios, e também por entidades públicas ou privadas, constituídas há pelo menos um ano, e que tenham por finalidade a proteção desses bens.
 
-AÇÃO CONTRA ATO ADMINISTRATIVO
+# AÇÃO CONTRA ATO ADMINISTRATIVO
 É a do administrado contra a Administração, quando tem seu direito subjetivo ferido por ato administrativo ilegal. Pode ser mandado de segurança, ação popular, ação de nulidade de patente de invenção e de marca de indústria e comércio, ação de desapropriação indireta etc.
 
-AÇÃO CRIMINAL ou AÇÃO PENAL
+# AÇÃO CRIMINAL ou AÇÃO PENAL
 Direito ou meio legítimo de pedir em juízo a punição do delinqüente. Meio de que se utiliza o poder público, em nome da sociedade, para apurar a responsabilidade dos agentes de delitos e aplicar-lhes as sanções punitivas correspondentes às infrações. A ação penal diz-se pública quando a iniciativa é do Ministério Público, como representante da sociedade, de representação do ofendido ou do Ministro da Justiça. A ação penal privada é promovida mediante queixa da parte ofendida ou de quem tiver qualidade jurídica para representá-lo.
 
-AÇÃO DE ALIMENTOS
+# AÇÃO DE ALIMENTOS
 É uma ação de rito especial. Pressupõe prova pré- constituída da relação de parentesco ou da obrigação alimentar. Não existindo prova pré- constituída do parentesco ou obrigação alimentar, a ação de alimentos deve processa-se pelo rito ordinário. Na ação de alimentos, a audiência é de conciliação, instrução e julgamento. Frustrada a conciliação, dá-se início imediatamente à fase de apresentação de contestação e, em seguida, à instrução e julgamento. A lei exige a presença das partes na audiência, que podem ou não estar acompanhadas de seus advogados.
 
-AÇÃO DE CONSIGNAÇÃO DE PAGAMENTO
+# AÇÃO DE CONSIGNAÇÃO DE PAGAMENTO
 É aquela pela qual o autor, nos casos e formas legais, faz citar a parte interessada para, em lugar, dia e hora designados, receber ou mandar receber o pagamento, ou a coisa que lhe é devida, sob pena de ser feito o seu depósito judicial, com o fim de extinguir a obrigação. È o depósito do valor do crédito tributário, feito em juízo, para garantir o direito do contribuinte.
 
-AÇÃO DE DANO
+# AÇÃO DE DANO
 Compete à pessoa prejudicada, contra aquele que por ação ou omissão voluntária, negligência, imperícia ou imprudência lhe violar direito ou lhe causar prejuízo ou dano, para que seja obrigado a repará-lo. Restituição, ressarcimento, indenização, são formas de reparação de coisa que foi objeto de dano
 
-AÇÃO DE DESAPROPRIAÇÃO
+# AÇÃO DE DESAPROPRIAÇÃO
 Ação que o órgão do Poder Executivo, que decretou a expropriação por utilidade pública, propõe contra o titular da propriedade, para fim de ser imitido na posse desta e indenizado o expropriado pelo preço que o autor oferece, ou, no caso de contestação, pelo que decretar o juiz, após a avaliação judicial.
 
-AÇÃO DE EMANCIPAÇÃO
+# AÇÃO DE EMANCIPAÇÃO
 Ação que o menor, tendo dezoito anos cumpridos, promove, com citação do Ministério Público, contra o seu pai, ou, na falta deste, contra a mãe, ou tutor para que seja julgado maior e capaz de reger a sua pessoa e administrar seus bens. A sentença de emancipação deve ser registrada em cartório a pedido dos interessados. Se não constar dos autos do procedimento de emancipação a prova de que foi feita a averbação da sentença, o juiz deverá comunicar ao cartório que a concedeu, sob pena de ela não produzir nenhum efeito.
 
-AÇÃO DE EXECUÇÃO
+# AÇÃO DE EXECUÇÃO
 Aquela pela qual o credor intima o devedor de título líquido e certo, já vencido, ou outro com igual força, a pagar-lhe dentro do prazo fixado por lei, a importância da dívida e acessórios, procedendo-se, na falta do pagamento, à penhora imediata de bens suficientes que ele nomeie ou se lhe encontre, e à avaliação e, subseqüente venda dos mesmos em hasta pública.
 
-AÇÃO DE EXECUÇÃO FISCAL
+# AÇÃO DE EXECUÇÃO FISCAL
 Compete à Fazenda Pública federal, estadual ou municipal contra obrigado seu para a cobrança de dívida proveniente de impostos, taxas, contribuições, multas, foros laudêmios, aluguéis, bem como de reposições e alcances de responsáveis pela administração e guarda de dinheiro público.
 
-AÇÃO DE INVESTIGAÇÃO DE PATERNIDADE
+# AÇÃO DE INVESTIGAÇÃO DE PATERNIDADE
 A que o filho ilegítimo promove contra o pretendido pai, por sentença judicial, seja a que, por sentença judicial, seja a filiação declarada como provinda do investigado, após a perquirição de provas que indiquem ou revelem a paternidade a ele atribuída (a tipagem e caracteres genéticos do sangue, tempo de gestação, antropologia e exame genético, que pode negar ou afirmar a paternidade. Atualmente esta ação cabe ao filho fora do casamento. A ação de investigação de paternidade ou de maternidade pode ser cumulada com a de petição de herança.
 
-AÇÃO DE NUNCIAÇÃO DE OBRA NOVA
+# AÇÃO DE NUNCIAÇÃO DE OBRA NOVA
 A que compete ao proprietário ou possuidor de um prédio urbano, ou rústico, o nunciante, contra o do prédio limítrofe, que neste inicie obra nova, ainda não concluída, que invade a área do seu ou de outra forma o prejudique na sua natureza, substância ou fins, ou no gozo normal de alguma servidão, e na qual se pede seja a construção suspensa pelo nunciado e demolido à sua custa.
 
-AÇÃO DE PERDA DE PÁTRIO PODER
+# AÇÃO DE PERDA DE PÁTRIO PODER
 É aquela pela qual o Ministério Público, ou qualquer pessoa legitimamente interessada, pede que o pai ou a mãe, em caso previsto na lei, seja destituído pelo pátrio poder. O mesmo que a ação de destituição ou inibição de pátrio poder.
 
-AÇÃO DE REINTEGRAÇÃO DE POSSE
+# AÇÃO DE REINTEGRAÇÃO DE POSSE
 Aquela que o possuidor, a título legal, de coisa móvel, de coisa móvel, de que fora espoliado por violência, clandestinidade ou precariedade, com o fim de recuperá-la, promove contra o esbulhador, ou de terceiro que a recebeu, ciente do esbulho. É a ação que o vendedor da coisa com reserva de domínio promove contra o comprador, que não a pagou, com o fim de reavê-la.
 
-AÇÃO DECLARATÓRIA
+# AÇÃO DECLARATÓRIA
 Ação, mediante o qual o autor, demonstrando legítimo interesse, pede que por sentença, sem efeito executório ou compulsório, seja reconhecida a existência ou inexistência de um direito ou de uma relação jurídica, ou a falsidade ou autenticidade de um documento para prevenir litígios futuros. O ônus de provar a existência do interesse processual, bem como das demais condições da ação e dos pressupostos processuais, é sempre do autor que deve provar os fatos constitutivos de seu direito e ao réu os fatos extintivos, impeditivos e modificativos do direito do autor.
 
-AÇÃO DEMOLITÓRIA
+# AÇÃO DEMOLITÓRIA
 É aquela em que o prejudicado por obra nova concluída à força, ou clandestinamente, pede que seja ela desfeita á custa do réu. A que a autoridade administrativa promove para que seja demolido prédio ou obra construída com violação das posturas municipais, ou que ameaça a segurança do público. Difere da ação de nunciação no fato de ser cabível quando a obra já está concluída. O mesmo que a ação de dano iminente ou ação de demolição.
 
-AÇÃO POPULAR
+# AÇÃO POPULAR
 É aquela que qualquer cidadão pode propor, por petição dirigida ao poder público competente, contra ato ilegal abusivo ou omissivo de um agente da Administração, contrário aos serviços, interesses ou uso públicos, ou lesivo ao patrimônio da União, dos Estados, dos municípios ou de sociedade de economia mista, para pedir a sua anulação ou declaração de nulidade, e a responsabilidade do acusado, obrigando-o, quando for o caso, a restituir tudo aquilo com que se locupletou ilicitamente, no exercício do cargo ou função pública.
 
-AÇÃO RESCISÓRIA
+# AÇÃO RESCISÓRIA
 Meio processual destinado a obter a declaração de nulidade ou ilegalidade de sentença cível definitiva, contra a qual não caiba mais recursos, proferida por juiz impedido ou incompetente, com ofensa à coisa julgada, originariamente, em segunda ou última instância. Cabe ainda a ação a parte prejudicada por qualquer ato que não dependa de sentença, ou em que esta for simplesmente homologatória, proposta no próprio juízo, com o fim de a anular. Dela pode ser objeto a partilha, a concordata, a divisão de terras, os contratos, etc.
 
 ACÓRDÃO
@@ -105,118 +105,118 @@ Conjunto das peças coordenadas que constituem um processo. É o próprio proces
 AUTUAÇÃO
 Ato ou efeito de autuar. Lavratura, na capa dos autos, de termo em que há designação da espécie da ação, do juízo e do cartório a que foi distribuída, dos nomes do escrivão, do autor e do réu, bem como menção de procuração e documentos em que se funda o pedido e constam da inicial. Junção aos autos, mediante termo, de qualquer peça processual. Lavratura de um auto, seja qual for a sua natureza.
 
-AÇÃO ACESSÓRIA
+# AÇÃO ACESSÓRIA
 Aquela que depende de uma ação principal, de que é subsidiária; deve ser processada e julgada no mesmo juízo da causa; pode ser incidente, preparatória ou preventiva.
 
-AÇÃO AO PORTADOR
+# AÇÃO AO PORTADOR
 Título que não traz inscrito no contexto o nome de seu proprietário, circulando livremente e podendo ser transferido simplesmente por tradição. A Lei 8.021/90 excluiu as ações ao portador da Lei das Sociedades Anônimas (Lei 6.404/76).
 
-AÇÃO AQUISITIVA
+# AÇÃO AQUISITIVA
 Dá-se quando o proprietário de um terreno em zona urbana pretende adquirir, por indenização arbitrada, do proprietário do prédio contíguo, parte da parede deste para colocar aí seu travejamento.
 
-AÇÃO COMINATÓRIA
+# AÇÃO COMINATÓRIA
 Aquela que visa a que outrem cumpra a obrigação, preste algum ato ou mesmo se abstenha da prática de determinado ato perturbador de relações jurídicas preexistentes.
 
-AÇÃO CONEXA
+# AÇÃO CONEXA
 A que se promove simultânea e cumuladamente com outra ação, existindo entre ambas uma relação análoga jurídica ou uma identidade, de modo que fique clara a necessidade de um julgamento único.
 
-AÇÃO DA MULHER
+# AÇÃO DA MULHER
 Direito que cabe à mulher casada de propor ações com o objetivo de livrar os bens do casal onerados pelo marido, desde que gravados ou alienados por ele, com o objetivo de anular as fianças ou doações feitas pelo marido.
 
-AÇÃO DE ANULAÇÃO
+# AÇÃO DE ANULAÇÃO
 Direito que assiste a uma pessoa de anular ato jurídico que lhe traga prejuízo ou que não tenha sido formulado segundo os princípios do direito. Assim, pode-se pedir ação de anulação de casamento, de marca ou de patente, de legado, de testamento, de partilha, entre outros.
 
-AÇÃO DECLARATÓRIA
+# AÇÃO DECLARATÓRIA
 Aquele em que, mediante simples declaração, sem força executória, o juiz proclama a existência ou inexistência de uma relação jurídica ou a falsidade ou autenticidade de um documento.
 
-AÇÃO DECLARATÓRIA DE INCONSTITUCIONALIDADE
+# AÇÃO DECLARATÓRIA DE INCONSTITUCIONALIDADE
 Aquela ajuizada no Supremo Tribunal Federal contra leis ou atos normativos do poder público.
 
-AÇÃO DE COBRANÇA
+# AÇÃO DE COBRANÇA
 A que resulta do chamamento em juízo do devedor para pagamento de obrigação representada em chamamento assinado pelo devedor ou resultante de compromisso por ele assinado.
 
-AÇÃO DE COMODATO
+# AÇÃO DE COMODATO
 A que compete ao comodante contra o comodatário para haver deste a restituição de coisa emprestada em regime de comodato nas mesmas condições
 
-AÇÃO DE DESPEJO
+# AÇÃO DE DESPEJO
 Meio hábil de que dispõe o proprietário, senhorio ou locador para demandar o locatário de prédio urbano ou rural com o objetivo de desocupação do imóvel, diante de reais evidências de injusta restituição.
 
-AÇÃO DE DIVISÃO OU DEMARCATÓRIA
+# AÇÃO DE DIVISÃO OU DEMARCATÓRIA
 A que objetiva atribuir a cada condômino ou co-proprietário de imóvel a parte que lhe cabe na mesma propriedade.
 
-AÇÃO DE EMBARGO DE OBRA NOVA
+# AÇÃO DE EMBARGO DE OBRA NOVA
 A que se intenta para impedir que outrem realize obras prejudiciais à sua propriedade ou agrida seus direitos de servidão.
 
-AÇÃO DE PARTILHA
+# AÇÃO DE PARTILHA
 Direito que assiste ao herdeiro de vir a pedir a partilha dos bens deixados pelo de cujus (finado), no intuito de fazer cessar a comunhão hereditária.
 
-AÇÃO DE RECLAMAÇÃO
+# AÇÃO DE RECLAMAÇÃO
 A que se move contra a administração pública com o objetivo de anulação de um ato considerado ilegal ou injusto por ela praticado ou de seu demandado.
 
-AÇÃO DE RECONHECIMENTO
+# AÇÃO DE RECONHECIMENTO
 Direito que assiste a uma pessoa de exigir que outra venha em juízo para reconhecer sinal, firma e obrigação constantes de documento exibido.
 
-AÇÃO DE REINVIDICAÇÃO
+# AÇÃO DE REINVIDICAÇÃO
 A que tem por objetivo assegurar ao proprietário o direito de usar, gozar e dispor de seus bens e de reavê-los do poder de quem quer que injustamente os possua.
 
-AÇÃO DE RENOVAÇÃO DE CONTRATO DE LOCAÇÃO
+# AÇÃO DE RENOVAÇÃO DE CONTRATO DE LOCAÇÃO
 Direito do locatário de imóvel não-residencial com o objetivo de obrigar o locador a renovar o contrato anterior em condições idênticas ou parecidas, de acordo com o que for judicialmente determinado (Lei 8.241/91).
 
-AÇÃO DE REPETIÇÃO DE INDÉBITO
+# AÇÃO DE REPETIÇÃO DE INDÉBITO
 A que compete àquele que pagou o que não era devido ou efetuou pagamento a maior para requerer a restituição do pagamento.
 
-AÇÃO DE SEGUROS
+# AÇÃO DE SEGUROS
 Aquela promovida pelo segurado contra o segurador com o objetivo de pedir indenização do bem, conforme as cláusulas contratuais.
 
-AÇÃO DE TUTELA
+# AÇÃO DE TUTELA
 Aquela proposta pelo curatelado ou tutelado contra seus curadores ou tuteladores com o objetivo de prestação de contas e indenização por eventuais danos causados.
 
-AÇÃO DE USUCAPIÃO
+# AÇÃO DE USUCAPIÃO
 Compete ao possuidor para que se lhe declare, nos termos da lei, o domínio do imóvel ou a servidão predial.
 
-AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+# AÇÃO DIRETA DE INCONSTITUCIONALIDADE
 Aquela conferida aos poderes Executivo e Legislativo, ao Conselho da OAB ou a partidos com representação no Congresso Nacional, dirigida ao Supremo Tribunal Federal, para demonstrar a inconstitucionalidade de uma norma legal.
 
-AÇÃO DISCRIMINATÓRIA
+# AÇÃO DISCRIMINATÓRIA
 Processo discriminatório das terras devolutas da União e dos Estados que pertençam a particulares (Lei 6.383/76).
 
-AÇÃO ENDOSSÁVEL
+# AÇÃO ENDOSSÁVEL
 Ação que pode ser transferida mediante simples endosso no verso da cautela.
 
-AÇÃO EXECUTIVA
+# AÇÃO EXECUTIVA
 A que se inicia com a citação do réu para que pague em 24 horas a dívida reclamada ou ofereça bens à penhora, só tomando o rito ordinário depois da contestação.
 
-AÇÃO EX. EMPTO
+# AÇÃO EX. EMPTO
 Aquela que compete ao comprador para exigir do vendedor a entrega da coisa vendida, de acordo com o compromisso de compra e venda, desde que tenha sido dado como pago o preço estipulado ou o sinal contratado.
 
-AÇÃO IMOBILIÁRIA
+# AÇÃO IMOBILIÁRIA
 Aquela cujo objeto é coisa imóvel ou direito real sobre o imóvel. Assim se diz da ação de reivindicação de posse, de manutenção, de reintegração de posse, entre outras.
 
-AÇÃO JUDICIAL
+# AÇÃO JUDICIAL
 O mesmo que processo judicial ou demanda. Direito de invocar proteção da Justiça e agir de acordo com as suas normas.
 
-AÇÃO MISTA
+# AÇÃO MISTA
 Aquela pela qual são exercidos um direito real e um pessoal.
 
-AÇÃO NOMINATIVA
+# AÇÃO NOMINATIVA
 Na linguagem financeira, diz-se da ação que traz escrito o nome de seu proprietário e cuja venda deve ser registrada em livro especial na empresa que a emitiu.
 
-AÇÃO ORDINÁRIA
+# AÇÃO ORDINÁRIA
 No direito comercial, além de proporcionar participação nos lucros da empresa, dá a seu titular o direito de voto; no direito civil, diz-se de toda ação que não tiver rito processual especial; ação comum.
 
-AÇÃO PENAL
+# AÇÃO PENAL
 Meio processual pelo qual o promotor público pode reclamar à Justiça o reconhecimento, a declaração, a atribuição ou a efetivação de um direito ou, ainda, a punição de um infrator das leis penais. Em sentido mais amplo, diz-se do meio pelo qual se pede a satisfação de pena convencional ou legal devida pelo descumprimento da obrigação assumida.
 
-AÇÃO PETITÓRIA
+# AÇÃO PETITÓRIA
 Aquela em que se pretende o reconhecimento ou a garantia do direito de propriedade ou de qualquer direito real.
 
-AÇÃO PREFERENCIAL
+# AÇÃO PREFERENCIAL
 Dá ao seu possuidor prioridade no recebimento de dividendos e, em caso de dissolução da empresa, no reembolso do capital. Normalmente não confere direito a voto nas assembléias da sociedade.
 
-AÇÃO REIPERSECUTÓRIA
+# AÇÃO REIPERSECUTÓRIA
 Ação em que o autor reclama o que se lhe deve ou lhe pertence e que se acha fora de seu patrimônio, incluindo interesses e penas convencionais.
 
-AÇÃO REVOCATÓRIA FALIMENTAR
+# AÇÃO REVOCATÓRIA FALIMENTAR
 Aquela em que o legítimo representante da massa falida ou por algum credor objetiva pleitear a ineficácia ou a revogação do ato jurídico do devedor praticado antes da falência.
 
 ACAREAÇÃO
